@@ -16,4 +16,5 @@
 ### Step 04
 #### Run docker compose
 `docker-compose up -d`
-## That's it you have now running nginx and python flask on Ubuntu.
+## That's it you have now running python flask application on nginx in Ubuntu.
+<img src="https://github.com/Habibullah339/Containerization_of_python_flask_app_nginx_on_ubuntu/blob/main/Screenshot%20from%202023-08-23%2010-09-09.png">
