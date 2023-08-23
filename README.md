@@ -2,10 +2,10 @@
 ### Step 01
 #### Create directory tree like this or clone this repo
 ###### ├── app 
-###### │   ├── app.py
-###### │   └── requirements.txt
+###### │   ├─── app.py
+###### │   └─── requirements.txt
 ###### ├── nginx
-###### │   └── nginx.conf
+###### │   └─── nginx.conf
 ###### ├── docker-compose.yml
 ###### ├── Dockerfile
 ### Step 02
